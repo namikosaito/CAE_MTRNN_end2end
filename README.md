@@ -8,3 +8,7 @@ input images and reconstruct images. You can extract the image feature value fro
 integrate angle data and image feature.
 input data(t) -> output data(t+1) i.e. predictive learning
 for generate motions
+
+
+python 3.8
+pytorch 1.8.1+cu111
